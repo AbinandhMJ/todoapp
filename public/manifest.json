@@ -18,6 +18,8 @@
       "sizes": "512x512"
     }
   ],
+  "shortname": "Todo App",
+	"name": "Todo App| AbinandhMJ",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
